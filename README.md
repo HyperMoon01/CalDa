@@ -4,3 +4,4 @@ Want a bot that takes care of your server with powerful moderation, fun command?
 
 * [Invite CalDa](https://dsc.gg/calda)
 * [Join Our Community Server](https://discord.gg/kNyHvz5PGn)
+* [Check Out CalDa's WIKI](https://github.com/HyperCoder11/CalDa/wiki)
